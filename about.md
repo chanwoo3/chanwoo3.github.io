@@ -3,6 +3,8 @@ layout: post
 title: About
 ---
 
-This is an example page!
+name: chanwoo3
+age:21
+mbti: isfp
 
-Actually, it has the same layout of a post...
+앞으로 열심히 활동하겠습니다!
