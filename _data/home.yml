@@ -3,17 +3,17 @@ navbar_entries:
     url: about
 
 project_entries:
+  - title: 언어 배우기
+    url: https://chanwoo3.github.io/
+    desc: 파이썬과 C언어 등을 배웠습니다/.
+
   - title: 웹 개발
-    url: overview-post
-    desc: assem 웹 개발부 지원용 포트폴리오 웹 페이지 깃허브로 제작 
+    url: https://chanwoo3.github.io/
+    desc: assem 웹 개발부 지원용 포트폴리오 웹 페이지 깃허브로 제작했습니다.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: 앞으로의 활동
+    url: https://chanwoo3.github.io/
+    desc: 앞으로 개발을 열심히 배워서 실력을 키우겠습니다.
 
 footer_entries:
   - title: github
