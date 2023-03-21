@@ -8,11 +8,11 @@ project_entries:
     desc: 파이썬과 C언어 등을 배웠습니다.
 
   - title: 웹 개발
-    url: overview-post
+    url: best-post
     desc: assem 웹 개발부 지원용 포트폴리오 웹 페이지 깃허브로 제작했습니다.
 
   - title: 앞으로의 활동
-    url: overview-post
+    url: dream-post
     desc: 앞으로 개발을 열심히 배워서 실력을 키우겠습니다.
 
 footer_entries:
